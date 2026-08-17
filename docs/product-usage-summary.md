@@ -40,7 +40,7 @@ The repository is based on the following OCI product areas:
 - Actual spend
 - Forecast spend
 - Alert recipients
-- Scheduled cost review options
+- Cost review follow-up points
 
 ---
 
