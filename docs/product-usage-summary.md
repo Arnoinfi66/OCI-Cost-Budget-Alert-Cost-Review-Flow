@@ -56,3 +56,22 @@ The alert itself does not control the cost. The review and follow-up after the a
 
 This repository uses simple sample wording and diagrams only.
 It does not include copied diagrams, another person's ownership, tenancy-specific details, OCIDs, real cost values, invoice details, real email recipients, real budget names, or project-specific information.
+
+---
+
+## Product Review Checklist
+
+The repository is based on reviewing the following OCI Cost Management areas:
+
+- Cost Analysis view
+- Time period and cost trend review
+- Grouping cost by service or compartment
+- Budget target and scope
+- Budget amount setup
+- Budget alert rule options
+- Actual spend alert option
+- Forecast spend alert option
+- Alert recipient review
+- Follow-up action after a budget alert
+
+The focus is not only to explain the feature, but to understand how cost visibility, budget threshold, alert rule, and review action work together.
